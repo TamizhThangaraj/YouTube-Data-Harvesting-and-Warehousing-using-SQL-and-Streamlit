@@ -45,8 +45,6 @@ __Python scripting, Data Collection, Streamlit, API integration, Data Management
 👉 import streamlit as st
 * streamlit_option_menu        
 👉 from streamlit_option_menu import option_menu
-* plotly      
-👉 import plotly.express as px
 * pillow        
 👉 from PIL import Image
   
