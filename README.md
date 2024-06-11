@@ -56,8 +56,6 @@ __Python scripting, Data Collection, Streamlit, API integration, Data Management
 *The collected YouTube data was transformed into pandas dataframes. Before that, a new database and tables were created using the XAMPP control panel. With the help of SQLAlchemy, the data was inserted into the respective tables. The database could be accessed and managed in the MySQL environment provided by XAMPP.
 #### 📋Data Analysis:
 * By using YouTube channel data stored in the MySQL database, performed MySQL queries to answer 10 questions about the YouTube channels. When selecting a question, the results will be displayed in the Streamlit application in the form of tables.
-#### 📊 Data Visualization: 
-* By using YouTube channel data stored in the MySQL database, The data was presented in visually appealing charts and graphs using Plotly. when selecting a Query, the visualization  diplayed in streamlit application
 
 ### 📘 Usage
 * Enter a YouTube channel ID or name in the input field in Data collection option from sidebar menu.
