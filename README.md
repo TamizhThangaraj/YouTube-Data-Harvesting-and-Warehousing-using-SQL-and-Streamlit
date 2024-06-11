@@ -67,4 +67,4 @@ __Python scripting, Data Collection, Streamlit, API integration, Data Management
 ### Contact
 LINKEDIN :  www.linkedin.com/in/tamil004
 
-EMAIL:manitamizh2001@gmail.com
+EMAIL  :  manitamizh2001@gmail.com
