@@ -29,7 +29,7 @@ __Python scripting, Data Collection, Streamlit, API integration, Data Management
 * MYSQL
 * Youtube API
 * Streamlit
-* Plotly
+
 
 ### 📚  Packages and Libraries
 * google-api-python-client        
